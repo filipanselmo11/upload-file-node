@@ -1,0 +1,30 @@
+# Módulos Node.js
+node_modules/
+
+# Arquivos de dependências
+package-lock.json
+yarn.lock
+
+# Arquivos de ambiente
+.env
+
+# Arquivos de log
+logs/
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Arquivos gerados na construção
+build/
+dist/
+out/
+
+# Arquivos de configuração específicos do IDE
+.vscode/
+.idea/
+
+# Outros arquivos específicos do sistema
+.DS_Store
+Thumbs.db
